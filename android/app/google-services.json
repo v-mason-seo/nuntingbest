@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "146569224131",
+    "firebase_url": "https://ntbest-58871.firebaseio.com",
+    "project_id": "ntbest-58871",
+    "storage_bucket": "ntbest-58871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146569224131:android:56151dedef04f8a4",
+        "android_client_info": {
+          "package_name": "com.ddastd.ntbest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146569224131-vitdrj9f9a3cclghq4f0jv9qmkckg9uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ddastd.ntbest",
+            "certificate_hash": "32202b5821f79a595a406cc25c5e58447544c1ea"
+          }
+        },
+        {
+          "client_id": "146569224131-odbct3k4c8knigmc5mf0i0umd7dtvgtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw__Gh6TNg_Ck-JHSsK0gq6cQmpdKoCoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146569224131-odbct3k4c8knigmc5mf0i0umd7dtvgtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146569224131-m2rm46romg4jdabs7njlh1dgv3m43sa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ddastudio.livenunting",
+                "app_store_id": "1466199397"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6608605689570528~4790861499"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146569224131:android:28e8856ae095c72c",
+        "android_client_info": {
+          "package_name": "com.ddastudio.livenunting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146569224131-odbct3k4c8knigmc5mf0i0umd7dtvgtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw__Gh6TNg_Ck-JHSsK0gq6cQmpdKoCoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146569224131-odbct3k4c8knigmc5mf0i0umd7dtvgtb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146569224131-m2rm46romg4jdabs7njlh1dgv3m43sa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ddastudio.livenunting",
+                "app_store_id": "1466199397"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6608605689570528~3739176794"
+    }
+  ],
+  "configuration_version": "1"
+}
